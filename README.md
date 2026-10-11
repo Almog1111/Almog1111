@@ -12,11 +12,13 @@ My portfolio combines academic projects with independent data analytics projects
 
 This section is dedicated to my independent data analytics projects, focused on applying technical and analytical skills to practical business questions.
 
-### Gaming Data Analytics - Coming Soon
+### [Gaming Data Analytics](https://github.com/Almog1111/gaming-data-analytics)
 
 An end-to-end analysis of mobile game player behavior and in-app purchases, exploring revenue distribution, spending segments, player demographics, engagement patterns, and business opportunities.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, Power BI.
+
+[Explore the Interactive Dashboard](https://almog1111.github.io/gaming-data-analytics/dashboards/Mobile%20Game%20In-App%20Purchases%20%E2%80%94%20Analytics%20Dashboard.html)
 
 More independent projects will be added as I continue developing my portfolio.
 
