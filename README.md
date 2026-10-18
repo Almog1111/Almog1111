@@ -24,7 +24,7 @@ Built an interactive dashboard featuring player search and filtering, adjustable
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, HTML, JavaScript.
 
-[Explore the Football Scouting Project](https://github.com/Almog1111/Football-Scouting-Analytics)
+[Explore the Interactive Dashboard](https://almog1111.github.io/Football-Scouting-Analytics/Scouting_dashboard.html)
 
 ### 🎮 [Gaming Data Analytics](https://github.com/Almog1111/gaming-data-analytics)
 
