@@ -1,30 +1,30 @@
 # Hi, I'm Almog 👋
 
-### Aspiring Data Analyst | Python • SQL • Pandas • Data Visualization
+### Aspiring Data Analyst | Python • SQL • Power BI • Excel • Pandas
 
 I'm a graduate of a Python and AI Development training program, currently building my professional portfolio and preparing for my first role as a Junior Data Analyst.
 
 During my studies, I gained hands-on experience with Python, SQL, Pandas, NumPy, data visualization, machine learning fundamentals, NLP, and backend development.
 
-Through independent analytics projects, I focus on transforming raw data into meaningful business insights, exploring analytical questions, building visualizations, and communicating actionable recommendations.
+Through independent analytics projects, I focus on transforming raw data into meaningful business insights, validating business metrics, building interactive dashboards, and communicating actionable recommendations.
 
 ## 📊 Personal Data Analytics Portfolio
 
-Independent end-to-end analytics projects demonstrating data cleaning, exploratory data analysis, business problem-solving, visualization, and data-driven decision-making.
+Independent end-to-end analytics projects demonstrating data cleaning, exploratory data analysis, SQL business analysis, business intelligence, visualization, and data-driven decision-making.
 
-### ⚽ [Football Scouting Analytics & AI](https://github.com/Almog1111/Football-Scouting-Analytics)
+### 🛒 [Olist E-Commerce Analytics](https://github.com/Almog1111/Olist-Ecommerce-Analytics)
 
-A football recruitment analytics project exploring how a club with a limited budget can identify promising young players using historical FIFA data.
+An end-to-end e-commerce analytics project using the Brazilian Olist dataset to explore sales performance, customer retention, delivery reliability, seller performance, and revenue concentration.
 
-Analyzed **17,954 players**, explored player quality and market value, applied recruitment constraints, and developed a weighted striker scoring model to compare tactical suitability and estimated three-year costs.
+Analyzed **96,478 delivered orders** representing approximately **BRL 13.22M in product revenue**, developed SQL business analyses, and built an interactive Power BI dashboard featuring revenue KPIs, customer metrics, delivery performance, and dynamic filters.
 
-Built an interactive dashboard featuring player search and filtering, adjustable scouting weights, budget scenarios, player rankings, and dynamic recruitment recommendations.
+Validated key metrics across analytical tools, including a corrected **93.23% on-time delivery rate**, and developed an Excel what-if model to evaluate revenue scenarios based on order volume and average order value.
 
-**Key Skills:** Data Cleaning, Exploratory Data Analysis, Weighted Scoring Models, Sensitivity Analysis, Cost Analysis, Business Insights.
+**Key Skills:** Data Cleaning, Exploratory Data Analysis, SQL Analysis, KPI Development, Data Validation, Customer Retention Analysis, Business Intelligence, Scenario Analysis, Business Insights.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, HTML, JavaScript.
+**Tools:** Python, Pandas, NumPy, Matplotlib, MySQL, Power BI, DAX, Excel, Jupyter Notebook.
 
-[Explore the Interactive Dashboard](https://almog1111.github.io/Football-Scouting-Analytics/Scouting_dashboard.html)
+[Explore the Project & Power BI Dashboard](https://github.com/Almog1111/Olist-Ecommerce-Analytics)
 
 ### 🎮 [Gaming Data Analytics](https://github.com/Almog1111/gaming-data-analytics)
 
@@ -65,9 +65,9 @@ An academic machine learning project.
 
 ## 🛠️ Technical Background
 
-**Data Analysis:** Python, Pandas, NumPy, SQL, Data Cleaning, Exploratory Data Analysis, Business Insights
+**Data Analysis:** Python, Pandas, NumPy, SQL, Data Cleaning, Exploratory Data Analysis, KPI Validation, Business Insights
 
-**Data Visualization:** Matplotlib, Power BI, Interactive Dashboards
+**Business Intelligence & Visualization:** Power BI, DAX Fundamentals, Excel, Matplotlib, Interactive Dashboards, What-if Analysis
 
 **Machine Learning & AI:** Supervised Learning, Unsupervised Learning, NLP Fundamentals
 
@@ -77,4 +77,4 @@ An academic machine learning project.
 
 ## 🎯 Career Goal
 
-I'm currently seeking an entry-level Junior Data Analyst opportunity where I can apply my technical foundation, solve practical business problems through data analysis, and continue developing my analytical capabilities in a professional environment.
+I'm currently seeking an entry-level Junior Data Analyst or BI Analyst opportunity where I can apply my technical foundation, analyze business data, develop reliable reporting solutions, and continue strengthening my analytical capabilities in a professional environment.
