@@ -8,6 +8,17 @@ During my studies, I gained hands-on experience with Python, SQL, Pandas, NumPy,
 
 Through independent analytics projects, I focus on transforming raw data into meaningful business insights, validating business metrics, building interactive dashboards, and communicating actionable recommendations.
 
+## 🎓 Education & Certifications
+
+**AI Development Certificate | ECOM School**  
+November 2026 | 427 Academic Hours
+
+Professional training in Python, SQL, Data Analysis, Machine Learning, and AI Development.
+
+<img src="Almog_Benayoun_Certificate.png" alt="ECOM School AI Development Certificate" width="450">
+
+---
+
 ## 📊 Personal Data Analytics Portfolio
 
 Independent end-to-end analytics projects demonstrating data cleaning, exploratory data analysis, SQL business analysis, business intelligence, visualization, and data-driven decision-making.
