@@ -78,3 +78,5 @@ An academic machine learning project.
 ## 🎯 Career Goal
 
 I'm currently seeking an entry-level Junior Data Analyst or BI Analyst opportunity where I can apply my technical foundation, analyze business data, develop reliable reporting solutions, and continue strengthening my analytical capabilities in a professional environment.
+
+
